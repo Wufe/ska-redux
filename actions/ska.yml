@@ -1,0 +1,9 @@
+name: Redux actions
+definition:
+- command: action
+  info: Create an action given a name.
+  template: action.js
+  destination: src/actions/
+  variables:
+  - id: name
+    info: Name of the action.

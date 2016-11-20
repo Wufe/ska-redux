@@ -1,0 +1,12 @@
+{
+  "name": "ska-redux",
+  "version": "0.1.0",
+  "description": "Repository containing redux templates for SKA ( https://github.com/wufe/ska ).",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/wufe/ska-redux",
+    "type": "git"
+  },
+  "author": "Simone Bembi <simone.bembi@gmail.com>",
+  "license": "MIT"
+}
